@@ -1,0 +1,124 @@
+title{
+	font-family: "Times New Roman";
+     }
+h1{
+	font-size: 50px;
+        text-align: center;
+	font-family: "Lucida Handwriting";
+  }
+.intro p{
+    font-size: 40px;
+    font-family: "Brush Script MT"; 
+ }
+.intro{
+	height: 750px;
+	background-image: url(https://cdn.pixabay.com/photo/2017/05/29/11/16/footprint-2353510_1280.jpg);
+	margin: 45px 50px 50px 50px;
+	color: #FFF5EE;
+	padding: 10px 10px 10px 10px;
+      }
+.photo{
+	float: right;
+	border: 1px solid #FFF5EE;
+	border-radius: 10px;
+	margin: 10px 30px 10px 30px;
+	padding: 10px 10px 10px 10px;
+      }
+.project{
+	  height: 300px;
+          border: 2px solid #B87333;
+	  background-image: url(https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131_1280.jpg);
+	  border-radius: 20px;
+	  margin-left: 200px;
+	  margin-right: 200px;
+          text-align: center;
+	  padding: 10px 10px 10px 10px;
+        }
+.project p{
+		font-size: 30px;
+    		font-family: "Papyrus";
+		color: #A95C68;
+	  }
+.project-title{
+		display: inline-block;
+		padding: 12px 24px;
+		background-color: #FFFFF0;
+	        margin-left: 50px;
+		color: white;
+              }
+.Links{
+	height: 200px;
+	border: 2px solid #eeee;
+	background-color: #FFFFF0;
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+        text-align: center;
+      }
+.Links p{
+		font-size: 30px;
+		font-family: "Garamond";
+		color: #CC7722;
+        }
+.Linkedin{
+		
+	        margin-right: 200px;
+		
+         }
+.Github{
+                margin-left: 200px;
+		margin-right: 50px;
+		
+        }
+.clk{
+	display: inline-block;
+	padding: 12px 24px;
+	background-color: #E2DFD2;
+	float: right;
+	
+    }
+.contact{
+	  height: 180px;
+	  border: 2px solid #eeee;
+	  margin: 30px;
+	  
+	  background-color: #EDEADE;
+	  
+	}
+.contact p{
+	    font-size: 25px;
+	    color: #800020;
+	    padding-left: 380px;
+          }
+ul{
+	font-size: 24px;
+	padding-left: 400px;
+	color: #800020;
+  }
+	  
+header{
+	  height: 20px;
+	  width: 100%;
+	  background-color: #986868;
+	  color: #FFFFFF;
+	  font-family: "Courier New";
+	  position: fixed;
+	  top : 0;
+	  z-index: 10;
+      }	
+footer{
+	 height: 20px;
+	 width: 100%; 
+	 font-family: "Courier New";
+	 background-color: #967969;
+	 color: #FFFFF0;
+      }
+.sec-title{
+	     height: 20px;
+	     font-family: "Garamond" ;
+	     margin-top: 10px ;
+	     border-bottom: 1px solid #899499;
+	  }
+.contact h3{
+		padding-left: 600px;
+	   }
